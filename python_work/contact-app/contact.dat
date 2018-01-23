@@ -1,0 +1,184 @@
+{
+    "__class__": "ContactBook",
+    "__args__": [
+        [
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\uace0\uae38\ub3d9",
+                    "cell_phone": "010-1111-3333",
+                    "email": "gogd@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\uace0\uae38\ub3d9X",
+                    "cell_phone": "010-1111-3333",
+                    "email": "gogd@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\uace0\uae38\ub3d9Y",
+                    "cell_phone": "010-1111-3333",
+                    "email": "gogd@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\uace0\uae38\ub3d9Z",
+                    "cell_phone": "010-1111-3333",
+                    "email": "gogd@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ub3c4\uc6b0\ub108",
+                    "cell_phone": "010-1111-5555",
+                    "email": "donut@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ub3c4\uc6b0\ub108X",
+                    "cell_phone": "010-1111-5555",
+                    "email": "donut@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ub3c4\uc6b0\ub108Y",
+                    "cell_phone": "010-1111-5555",
+                    "email": "donut@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ub3c4\uc6b0\ub108Z",
+                    "cell_phone": "010-1111-5555",
+                    "email": "donut@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ub9c8\uc774\ucf5c",
+                    "cell_phone": "010-1111-4444",
+                    "email": "micol@gmail.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ub9c8\uc774\ucf5cX",
+                    "cell_phone": "010-1111-4444",
+                    "email": "micol@gmail.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ub9c8\uc774\ucf5cY",
+                    "cell_phone": "010-1111-4444",
+                    "email": "micol@gmail.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ub9c8\uc774\ucf5cZ",
+                    "cell_phone": "010-1111-4444",
+                    "email": "micol@gmail.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ud64d\uae38\ub3d9",
+                    "cell_phone": "010-1111-2222",
+                    "email": "hong@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ud64d\uae38\ub3d9X",
+                    "cell_phone": "010-1111-2222",
+                    "email": "hong@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ud64d\uae38\ub3d9Y",
+                    "cell_phone": "010-1111-2222",
+                    "email": "hong@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            },
+            {
+                "__class__": "Contact",
+                "__arg__": [],
+                "__kw__": {
+                    "name": "\ud64d\uae38\ub3d9Z",
+                    "cell_phone": "010-1111-2222",
+                    "email": "hong@naver.com",
+                    "address": "",
+                    "birthday": ""
+                }
+            }
+        ]
+    ],
+    "__kw__": {}
+}
