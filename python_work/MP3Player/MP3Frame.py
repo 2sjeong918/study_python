@@ -24,8 +24,11 @@ class MP3Frame(Frame) :
         self.listbox.bind('<Double-Button-1>',
                           lambda event:self.on_select(event))
 
-        self.scale = Scale(self, from_=0, to=100, orient=HORIZONTAL)
-        self.scale.pack(fill=X, padx=10, pady=10)
+
+        self.progress = Scale(self, from_=0, to=100, orient=HORIZONTAL,
+                              command=lambda value: self)
+        # self.scale = Scale(self, from_=0, to=100, orient=HORIZONTAL)
+        # self.scale.pack(fill=X, padx=10, pady=10)
 
         self.make_button_frame()
 
